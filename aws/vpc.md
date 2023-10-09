@@ -27,3 +27,6 @@ https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Security.html
 * traffic mirroring
 * iam
 
+# security group vs acl
+![img_11.png](img_11.png)
+
