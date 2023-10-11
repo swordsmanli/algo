@@ -15,3 +15,6 @@ data structure &amp; algorithm
 大体上基本的数据结构都可以用数组和链表来实现
 so u must be very familiar with array & linked list 
 
+### add git emoji
+https://gitmoji.dev/
+
